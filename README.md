@@ -9,7 +9,7 @@ first. We use plots and simple statistics to understand the data better. It also
 missing values, outliers and other important issues. The structure of the data gives us an idea
 about how to continue the analysis in the next steps.
 
-    Visualization Examples
+##  Visualization Examples
 
 
 ### Graph 1
