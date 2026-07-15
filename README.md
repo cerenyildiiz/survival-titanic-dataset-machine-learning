@@ -27,4 +27,17 @@ $H_1$: There is a statistically significant difference in age between those who 
 In the given plot, p = 0.16 > 0.05. We cannot reject H0. Therefore, there is no statistically significant difference in age between those who survived and those who did not survive.
 
 
+
+
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/51987d13-8b01-4102-a650-ac3715fc55f0" />
+
+
+This graph shows that the age distributions of both genders are similar. When we look at thedensity, we can see that the highest concentration is between ages 20 and 30. The graph alsoshows the mean age, and it shows that males have a slightly higher average age than females.
+
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/0c676a3c-53ff-40e6-83d6-e494c51d1e3e" />
+
+
+This graph shows that the age distributions of people who survived and did not survive aresimilar. The highest density is between ages 20 and 30 for both groups. The graph also showsthe mean age, and it can be seen that people who did not survive are slightly older on average.In addition, younger people, especially children, have a higher survival rate. However, there isa large overlap between the two groups, so age alone is not a strong factor for survival.
+
+
 ## 1. Logistic Regression 
