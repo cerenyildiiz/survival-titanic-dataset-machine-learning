@@ -16,7 +16,7 @@ about how to continue the analysis in the next steps.
 <img width="2400" height="1800" alt="Age_by_Survival_Status" src="https://github.com/user-attachments/assets/79ca5d20-6cb3-4ed8-b423-4ad1cfab1c81" />
 
 
-Hypotheses
+#### Hypotheses
 
 The following hypotheses are tested using a Mann-Whitney test:
 
