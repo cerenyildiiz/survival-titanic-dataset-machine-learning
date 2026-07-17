@@ -24,7 +24,7 @@ $H_0$: There is no statistically significant difference in age between those who
 
 $H_1$: There is a statistically significant difference in age between those who survived and those who did not survive.
 
-In the given plot, p = 0.16 > 0.05. We cannot reject H0. Therefore, there is no statistically significant difference in age between those who survived and those who did not survive.
+In the given plot, p = 0.16 > 0.05. We cannot reject $H_0$.Therefore, there is no statistically significant difference in age between those who survived and those who did not survive.
 
 
 ## Graph 2
