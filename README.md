@@ -45,6 +45,9 @@ This graph shows that the age distributions of people who survived and did not s
 <img width="4200" height="2400" alt="Titanic_Alluvial_Plot_Improved (2)" src="https://github.com/user-attachments/assets/f53152d8-5442-41aa-98d2-eab155c2b7ad" />
 
 
+
+**In both graphs, the dashed vertical lines indicate the mean age.**
+
 ## 1. Logistic Regression 
 
 ## Graph 5
