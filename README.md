@@ -41,12 +41,17 @@ This graph shows that the age distributions of both genders are similar. When we
 
 This graph shows that the age distributions of people who survived and did not survive aresimilar. The highest density is between ages 20 and 30 for both groups. The graph also showsthe mean age, and it can be seen that people who did not survive are slightly older on average.In addition, younger people, especially children, have a higher survival rate. However, there isa large overlap between the two groups, so age alone is not a strong factor for survival.
 
+
+
+
+> **In both graphs, the dashed vertical lines indicate the mean age.**
+
 ## Graph 4
 <img width="4200" height="2400" alt="Titanic_Alluvial_Plot_Improved (2)" src="https://github.com/user-attachments/assets/f53152d8-5442-41aa-98d2-eab155c2b7ad" />
 
 
 
-**In both graphs, the dashed vertical lines indicate the mean age.**
+
 
 ## 1. Logistic Regression 
 
