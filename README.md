@@ -62,4 +62,3 @@ This graph shows that the age distributions of people who survived and did not s
 
 ## Graph 6
 
-<img width="6000" height="3600" alt="image" src="https://github.com/user-attachments/assets/a7a7f580-c16c-46ea-a6f6-f151e0d29fe9" />
