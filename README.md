@@ -60,5 +60,5 @@ This graph shows that the age distributions of people who survived and did not s
 
 <img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/2f45a3eb-92eb-41fb-90dd-5942ceae76fa" />
 
-## Graph 6
+** If you would like to see the complete logistic regression analysis, you can click the link below.**
 
